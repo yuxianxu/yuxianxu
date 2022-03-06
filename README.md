@@ -28,7 +28,7 @@
   
   - [zonama](https://zonama.vercel.app) - full-featured e-commerce app
   - [rentAcar](https://car-rent.vercel.app) - small business landing page
-  - [readRadio](https://readradio.heroku.com) - live radio transcription app
+  - [readRadio](https://readradio.herokuapp.com) - live radio transcription app
   - [yuxianxu.com](https://yuxianxu.com) - portfolio website
 
 </p>
