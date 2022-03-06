@@ -3,15 +3,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h4 align="center">
-[![Linkedin Badge](https://img.shields.io/badge/-yuxianxu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuxianxu)](https://www.linkedin.com/in/yuxianxu) 
-[![Gmail Badge](https://img.shields.io/badge/-yuxian.xu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuxian.xu@gmail.com)](mailto:yuxian.xu@gmail.com)
-</h4>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=402&height=89&lines=Full+stack+developer.+;Focus+on+project+deliverable.;Open+minded%2C+getting+work+done!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=402&height=69&lines=Full+stack+developer.+;Focus+on+project+deliverable.;Open+minded%2C+getting+work+done!)](https://git.io/typing-svg)
 </p>
 
+<p align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-yuxianxu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuxianxu)](https://www.linkedin.com/in/yuxianxu) 
+[![Gmail Badge](https://img.shields.io/badge/-yuxian.xu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuxian.xu@gmail.com)](mailto:yuxian.xu@gmail.com)
+[yuxianxu.comn](https://yuxianxu.com)
+</p>
 <br/>
 
 
@@ -105,14 +106,13 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p> 
   <summary>💻 GitHub Profile Stats</summary>
+![Yuxian Xu's github stats](https://github-readme-stats.vercel.app/api?username=yuxianxu&show_icons=true&theme=dracula)
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yuxianxu's Github Stats" src="https://yuxianxu-github-readme-stats.vercel.app/api/?username=yuxianxu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yuxianxu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuxianxu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 
-
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="yuxianxu's Activity Graph" src="https://yuxianxu-activity-graph.herokuapp.com/graph/?username=yuxianxu&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
