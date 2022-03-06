@@ -4,15 +4,19 @@
 </h3>
 
 
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=402&height=69&lines=Full+stack+developer.+;Focus+on+project+deliverable.;Open+minded%2C+getting+work+done!)](https://git.io/typing-svg)
-</p>
+<h4 align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&width=402&height=89&lines=Full+stack+developer,+;Focus+on+project+deliverable.;Open+minded%2C+getting+work+done!)](https://git.io/typing-svg)
+  
+</h4>
 
-<p align="center">
+<h4 align="center">
+  
 [![Linkedin Badge](https://img.shields.io/badge/-yuxianxu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuxianxu)](https://www.linkedin.com/in/yuxianxu) 
 [![Gmail Badge](https://img.shields.io/badge/-yuxian.xu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuxian.xu@gmail.com)](mailto:yuxian.xu@gmail.com)
-[yuxianxu.comn](https://yuxianxu.com)
-</p>
+![Portfoli](https://img.shields.io/website?url=https%3A%2F%2Fyuxianxu.com)
+  
+</h4>
 <br/>
 
 
@@ -21,24 +25,34 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
 <p align="left">
-  <a href="https://github.com/yuxianxu/zonama-ecommerce-Nextjs-MUI"><img width="282" src="https://yuxianxu-github-readme-stats.vercel.app/api/pin/?username=yuxianxu&repo=zonama-ecommerce-Nextjs-MUI&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zonama-ecommerce-Nextjs-MUI"></a>
-  <a href="https://github.com/yuxianxu/readme-typing-svg"><img width="282" src="https://yuxianxu-github-readme-stats.vercel.app/api/pin/?username=yuxianxu&repo=rrentAcar-landing-page-typescript-tailwind&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="rrentAcar-landing-page-typescript-tailwind"></a>
-  <a href="https://github.com/yuxianxu/custom-icon-badges"><img width="282" src="https://yuxianxu-github-readme-stats.vercel.app/api/pin?username=yuxianxu&repo=readradio-react-nodejs&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="readradio-react-nodejs"></a>
-  <a href="https://github.com/yuxianxu/LaTeX-Gboard-Dictionary"><img width="282" src="https://yuxianxu-github-readme-stats.vercel.app/api/pin/?username=yuxianxu&repo=portfolio_website_Nextjs_Yuxian_Xu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio_website_Nextjs_Yuxian_Xu"></a>
+  
+  - [zonama](https://zonama.vercel.app) - full-featured e-commerce app
+  - [rentAcar](https://car-rent.vercel.app) - small business landing page
+  - [readRadio](readradio.heroku.com) - live radio transcription app
+  - [yuxianxu.com](https://yuxianxu.com) - portfolio website
 
 </p>
+<br/>
 
 <p align="left">
   <a href="https://github.com/yuxianxu?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-
+<br/>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yuxianxu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuxianxu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+
+  
+</p>
+
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <p>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
@@ -61,6 +75,10 @@
     <a href="#"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
     <a href="#"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
 </p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<br/>
+<br/>
 
 ### 🧰 Frameworks and libraries
 
@@ -77,6 +95,8 @@
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
 
+<br/>
+
 ### 🗄️ Databases and cloud hosting
 
 <p>
@@ -89,6 +109,9 @@
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 </p>
 
+
+<br/>
+
 ### 💻 Software and tools
 
 <p>
@@ -100,19 +123,15 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 </p>
 
+<br/>
 
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <p> 
   <summary>💻 GitHub Profile Stats</summary>
+  
 ![Yuxian Xu's github stats](https://github-readme-stats.vercel.app/api?username=yuxianxu&show_icons=true&theme=dracula)
+  
+   
   <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="yuxianxu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuxianxu&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
