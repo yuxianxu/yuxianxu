@@ -1,12 +1,15 @@
 <h3 align="center">
-  Welcome to Yuxian Xu's profile!
+  Hi, welcome to Yuxian Xu's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h4 align="center">
+[![Linkedin Badge](https://img.shields.io/badge/-yuxianxu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuxianxu)](https://www.linkedin.com/in/yuxianxu) 
+[![Gmail Badge](https://img.shields.io/badge/-yuxian.xu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuxian.xu@gmail.com)](mailto:yuxian.xu@gmail.com)
+</h4>
+
 <p align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=402&height=89&lines=Full+stack+developer.+;Focus+on+project+deliverable.;Open+minded%2C+getting+work+done!)](https://git.io/typing-svg)
-
 </p>
 
 <br/>
