@@ -6,7 +6,7 @@
 
 <h4 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=system-ui&color=%23DA6306&size=25&width=402&height=89&lines=Full+stack+developer.+;Focus+on+project+deliverable.;Open+minded%2C+work+hard.;Getting+work+done!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=system-ui&color=%230969da&size=25&width=402&height=89&lines=Full+stack+developer.+;Focus+on+project+deliverable.;Open+minded%2C+work+hard.;Getting+work+done!)](https://git.io/typing-svg)
   
 </h4>
 
@@ -27,9 +27,9 @@
 <p align="left">
   
   - [zonama](https://zonama.vercel.app) - full-featured e-commerce app
-  - [rentAcar](https://car-rent.vercel.app) - small business landing page
-  - [readRadio](https://readradio.herokuapp.com) - live radio transcription app
-  - [yuxianxu.com](https://yuxianxu.com) - portfolio website
+  - [rentAcar](https://car-rent.vercel.app) - landing page template for small business
+  - [readRadio](https://readradio.herokuapp.com) - live radio transcription app for new language learners
+  - [yuxianxu.com](https://yuxianxu.com) - personal portfolio website
 
 </p>
 <br/>
