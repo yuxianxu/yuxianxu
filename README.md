@@ -14,7 +14,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-yuxianxu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuxianxu)](https://www.linkedin.com/in/yuxianxu) 
 [![Gmail Badge](https://img.shields.io/badge/-yuxian.xu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuxian.xu@gmail.com)](mailto:yuxian.xu@gmail.com)
-![Portfoli](https://img.shields.io/website?url=https%3A%2F%2Fyuxianxu.com)
+![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fyuxianxu.com)
   
 </h4>
 <br/>
@@ -30,7 +30,7 @@
   - [rentAcar](https://car-rent.vercel.app) - landing page template for small business
   - [readRadio](https://readradio.herokuapp.com) - live radio transcription app for new language learners
   - [yuxianxu.com](https://yuxianxu.com) - personal portfolio website
-  - [yuxian.vercel.app](https://yuxian.vercel.app) - portfolio template website
+  - [yuxian.netlify.app](https://yuxian.netlify.app) - portfolio template website
 
 </p>
 <br/>
