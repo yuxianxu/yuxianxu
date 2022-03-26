@@ -14,7 +14,7 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-yuxianxu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuxianxu)](https://www.linkedin.com/in/yuxianxu) 
 [![Gmail Badge](https://img.shields.io/badge/-yuxian.xu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuxian.xu@gmail.com)](mailto:yuxian.xu@gmail.com)
-![Portfolio](https://img.shields.io/website?url=https%3A%2F%2Fyuxianxu.com)
+![Portfolio](https://img.shields.io/website?up_message=portfolio&url=https%3A%2F%2Fyuxianxu.com)
   
 </h4>
 <br/>
