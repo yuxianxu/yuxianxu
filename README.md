@@ -26,7 +26,7 @@
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
 <p align="left">
   
-  - [zonama](https://zonama.vercel.app) - full-featured e-commerce app
+  - [zonama](https://zonama.vercel.app) - full-featured e-commerce app, like amazon
   - [rentAcar](https://car-rent.vercel.app) - landing page template for small business
   - [readRadio](https://readradio.herokuapp.com) - live radio transcription app for new language learners
   - [yuxianxu.com](https://yuxianxu.com) - personal portfolio website
