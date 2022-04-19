@@ -26,9 +26,10 @@
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
 <p align="left">
   
-  - loveShare 
-  -- 🌎[Live](https://loveshare.netlify.app) 💻[code](https://github.com/yuxianxu/social-image-sharing) 
-  -- advance image sharing social media app
+  ### loveShare 
+  - 🌎[Live](https://loveshare.netlify.app) 💻[code](https://github.com/yuxianxu/social-image-sharing) 
+  - advance image sharing social media app
+  ### zonama
   - [zonama](https://zonama.vercel.app) - full-featured e-commerce app, like amazon  
   - [otc-blog](https://otc-blog.vercel.app) - a demo site for healthy living blog
   - [rentAcar](https://car-rent.vercel.app) - landing page template for small business
