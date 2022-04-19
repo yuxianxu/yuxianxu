@@ -29,7 +29,7 @@
   ### loveShare 
   - 🌎 [Live view](https://loveshare.netlify.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/social-image-sharing) 
-  - advance image sharing social media app
+  - advanced image sharing social media app
   ### zonama
   - 🌎 [Live view](https://zonama.vercel.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/zonama-ecommerce-Nextjs-MUI) 
