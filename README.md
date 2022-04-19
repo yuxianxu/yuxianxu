@@ -27,15 +27,33 @@
 <p align="left">
   
   ### loveShare 
-  - 🌎[Live view](https://loveshare.netlify.app)     💻[repo code](https://github.com/yuxianxu/social-image-sharing) 
+  - 🌎 [Live view](https://loveshare.netlify.app)     
+  - 💻 [repo & code](https://github.com/yuxianxu/social-image-sharing) 
   - advance image sharing social media app
   ### zonama
-  - [zonama](https://zonama.vercel.app) - full-featured e-commerce app, like amazon  
-  - [otc-blog](https://otc-blog.vercel.app) - a demo site for healthy living blog
-  - [rentAcar](https://car-rent.vercel.app) - landing page template for small business
-  - [readRadio](https://readradio.herokuapp.com) - live radio transcription app for new language learners
-  - [yuxianxu.com](https://yuxianxu.com) - personal portfolio website
-  - [yuxian.netlify.app](https://yuxian.netlify.app) - portfolio template website
+  - 🌎 [Live view](https://zonama.vercel.app)     
+  - 💻 [repo & code](https://github.com/yuxianxu/zonama-ecommerce-Nextjs-MUI) 
+  - full-featured e-commerce app, like amazon  
+  ### otc-blog
+  - 🌎 [Live view](https://otc-blog.vercel.app)     
+  - 💻 [repo & code](https://github.com/yuxianxu/otc-blog) 
+  - a demo site for healthy living blog
+  ### rentAcar
+  - 🌎 [Live view](https://car-rent.vercel.app)     
+  - 💻 [repo & code](https://github.com/yuxianxu/rentAcar-landing-page-typescript-tailwind) 
+  - landing page template for small business
+  ### readRadio
+  - 🌎 [Live view](https://readradio.herokuapp.com)     
+  - 💻 [repo & code](https://github.com/yuxianxu/readradio-react-nodejs) 
+  - live radio transcription app for new language learners
+  ### yuxianxu.com]  
+  - 🌎 [Live view](https://yuxianxu.com)     
+  - 💻 [repo & code](https://github.com/yuxianxu/portfolio-hugo-yuxian) 
+  - personal portfolio website
+  ### yuxian.netlify.app]  
+  - 🌎 [Live view](https://yuxian.netlify.app)     
+  - 💻 [repo & code](https://github.com/yuxianxu/portfolio_website_Nextjs_Yuxian_Xu) 
+  - portfolio template website
 
 </p>
 <br/>
