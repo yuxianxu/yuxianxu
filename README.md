@@ -26,7 +26,8 @@
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
 <p align="left">
   
-  - [zonama](https://zonama.vercel.app) - full-featured e-commerce app, like amazon
+  - [loveShare](https://loveshare.netlify.app) - advance image sharing social media app
+  - [zonama](https://zonama.vercel.app) - full-featured e-commerce app, like amazon  
   - [otc-blog](https://otc-blog.vercel.app) - a demo site for healthy living blog
   - [rentAcar](https://car-rent.vercel.app) - landing page template for small business
   - [readRadio](https://readradio.herokuapp.com) - live radio transcription app for new language learners
