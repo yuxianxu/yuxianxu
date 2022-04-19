@@ -27,7 +27,7 @@
 <p align="left">
   
   ### loveShare 
-  - 🌎[Live](https://loveshare.netlify.app) 💻[code](https://github.com/yuxianxu/social-image-sharing) 
+  - 🌎[Live view](https://loveshare.netlify.app)     💻[repo code](https://github.com/yuxianxu/social-image-sharing) 
   - advance image sharing social media app
   ### zonama
   - [zonama](https://zonama.vercel.app) - full-featured e-commerce app, like amazon  
