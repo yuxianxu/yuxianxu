@@ -46,11 +46,11 @@
   - 🌎 [Live view](https://readradio.herokuapp.com)     
   - 💻 [repo & code](https://github.com/yuxianxu/readradio-react-nodejs) 
   - live radio transcription app for new language learners
-  ### yuxianxu.com]  
+  ### yuxianxu.com
   - 🌎 [Live view](https://yuxianxu.com)     
   - 💻 [repo & code](https://github.com/yuxianxu/portfolio-hugo-yuxian) 
   - personal portfolio website
-  ### yuxian.netlify.app]  
+  ### yuxian.netlify.app
   - 🌎 [Live view](https://yuxian.netlify.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/portfolio_website_Nextjs_Yuxian_Xu) 
   - portfolio template website
