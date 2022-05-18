@@ -28,7 +28,7 @@
   
   ### cloudRoom
   - 🌎 [Live view](https://cloudroom.netlify.app)
-  - 💻 [repo & code](https://github.com/yuxianxu/live-meeting-room-private)
+  - 💻 [repo & code](https://github.com/yuxianxu/live-video-meeting-room)
   - Real-time video chat room, including screen sharing feature
   
   ### loveShare 
