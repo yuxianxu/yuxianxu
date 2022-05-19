@@ -56,7 +56,7 @@
   - 💻 [repo & code](https://github.com/yuxianxu/readradio-react-nodejs) 
   - live radio transcription app for new language learners
   
-  ### climate-change-API
+  ### climate-change-news-API
   - 🌎 [Live view](https://rapidapi.com/yuxianxu-2YL6x61fpUR/api/climate-change-news94/)     
   - 💻 [repo & code](https://github.com/yuxianxu/climate-change-news-api) 
   - live radio transcription app for new language learners
