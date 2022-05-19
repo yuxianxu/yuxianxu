@@ -35,26 +35,37 @@
   - 🌎 [Live view](https://loveshare.netlify.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/social-image-sharing) 
   - advanced image sharing social media app
+  
   ### zonama
   - 🌎 [Live view](https://zonama.vercel.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/zonama-ecommerce-Nextjs-MUI) 
   - full-featured e-commerce app, like amazon  
+  
   ### otc-blog
   - 🌎 [Live view](https://otc-blog.vercel.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/otc-blog) 
   - a demo site for healthy living blog
+  
   ### rentAcar
   - 🌎 [Live view](https://car-rent.vercel.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/rentAcar-landing-page-typescript-tailwind) 
   - landing page template for small business
+  
   ### readRadio
   - 🌎 [Live view](https://readradio.herokuapp.com)     
   - 💻 [repo & code](https://github.com/yuxianxu/readradio-react-nodejs) 
   - live radio transcription app for new language learners
+  
+  ### climate-change-API
+  - 🌎 [Live view](https://rapidapi.com/yuxianxu-2YL6x61fpUR/api/climate-change-news94/)     
+  - 💻 [repo & code](https://github.com/yuxianxu/climate-change-news-api) 
+  - live radio transcription app for new language learners
+  
   ### yuxianxu.com
   - 🌎 [Live view](https://yuxianxu.com)     
   - 💻 [repo & code](https://github.com/yuxianxu/portfolio-hugo-yuxian) 
   - personal portfolio website
+  
   ### yuxian.netlify.app
   - 🌎 [Live view](https://yuxian.netlify.app)     
   - 💻 [repo & code](https://github.com/yuxianxu/portfolio_website_Nextjs_Yuxian_Xu) 
