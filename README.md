@@ -24,7 +24,12 @@
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
-<p align="left">
+<p align="left">   
+  
+  ### CardBlog
+  - 🌎 [Live view](https://cardblog.herokuapp.com)
+  - 💻 [repo & code](https://github.com/yuxianxu/vue_rest_api_MEVN_CardBlog)
+  - A full-stack MEVN project using MongoDB, Express Js and Node Js in Back-End to create RestFul API. Then consumed this API in the Front-End using VueJs and Vuetify
   
   ### cloudRoom
   - 🌎 [Live view](https://cloudroom.netlify.app)
