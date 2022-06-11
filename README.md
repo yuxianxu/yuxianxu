@@ -29,7 +29,7 @@
   ### CardBlog
   - 🌎 [Live view](https://cardblog.herokuapp.com)
   - 💻 [repo & code](https://github.com/yuxianxu/vue_rest_api_MEVN_CardBlog)
-  - A full-stack MEVN project using MongoDB, Express Js and Node Js in Back-End to create RestFul API. Then consumed this API in the Front-End using VueJs and Vuetify
+  - A full-stack MEVN project using MongoDB, Express Js and Node Js in Back-End to create RestFul API. Then consumed this API in the Front-End using **VueJs and Vuetify**
   
   ### cloudRoom
   - 🌎 [Live view](https://cloudroom.netlify.app)
