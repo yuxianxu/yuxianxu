@@ -48,7 +48,6 @@
   
   ### otc-blog
   - 🌎 [Live view](https://otc-blog.vercel.app)     
-  - 💻 [repo & code](https://github.com/yuxianxu/otc-blog) 
   - a demo site for healthy living blog
   
   ### rentAcar
