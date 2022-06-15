@@ -26,6 +26,11 @@
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
 <p align="left">   
   
+  ### Dev Daily news
+  - 🌎 [Dev Daily](https://dev-daily.herokuapp.com)
+  - 💻 [repo & code](https://github.com/yuxianxu/devNews-hacknews-clone)
+  - A dive deep javascript project to clone YC hackernews. Although it is just a vallian javascript app, created reducer and store to implement ADD and RMOVE favorites.
+  
   ### CardBlog
   - 🌎 [Live view](https://cardblog.herokuapp.com)
   - 💻 [repo & code](https://github.com/yuxianxu/vue_rest_api_MEVN_CardBlog)
