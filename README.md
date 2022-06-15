@@ -21,12 +21,6 @@
 
 ## 📘 My top open source projects
 
-**Note**
-This is a note
-
-> **Warning**
-> This is a warning
-
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
 <p align="left">   
