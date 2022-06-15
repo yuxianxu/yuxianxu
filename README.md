@@ -3,9 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-**Note**
-Test note feature
-
 <h4 align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=system-ui&color=%230a66c2&size=25&width=300&height=89&lines=Full+stack+engineer.+;Focus+on+project+deliverable.;Open+minded%2C+work+hard.;Getting+work+done!)](https://git.io/typing-svg)
@@ -23,6 +20,12 @@ Test note feature
 
 
 ## 📘 My top open source projects
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/yuxianxu/github-readme-stats -->
