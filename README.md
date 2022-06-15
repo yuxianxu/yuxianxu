@@ -58,12 +58,12 @@
   ### readRadio
   - 🌎 [Live view](https://readradio.herokuapp.com)     
   - 💻 [repo & code](https://github.com/yuxianxu/readradio-react-nodejs) 
-  - live radio transcription app for new language learners
+  - **live radio transcription** app for new language learners
   
   ### climate-change-news-API
   - 🌎 [Live view](https://rapidapi.com/yuxianxu-2YL6x61fpUR/api/climate-change-news94/)     
   - 💻 [repo & code](https://github.com/yuxianxu/climate-change-news-api) 
-  - live radio transcription app for new language learners
+  - A **customized API** that can track the specific latest global news, not just climate change.
   
   ### yuxianxu.com
   - 🌎 [Live view](https://yuxianxu.com)     
