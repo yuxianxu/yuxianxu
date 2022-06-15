@@ -29,7 +29,7 @@
   ### Dev Daily news
   - 🌎 [Dev Daily](https://dev-daily.herokuapp.com)
   - 💻 [repo & code](https://github.com/yuxianxu/devNews-hacknews-clone)
-  - A dive deep javascript project to clone YC hackernews. Although it is just a vallian javascript app, created reducer and store to implement ADD and RMOVE favorites.
+  - A **dive deep** javascript project to clone YC hackernews. Although it is just a vallian javascript app, created advanced reducer and store to implement ADD and RMOVE favorites without database or JSON file.
   
   ### CardBlog
   - 🌎 [Live view](https://cardblog.herokuapp.com)
