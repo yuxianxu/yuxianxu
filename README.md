@@ -30,10 +30,15 @@
   - 💻 [repo & code](https://github.com/yuxianxu/devNews-hacknews-clone)
   - A **deep dive** javascript project to clone YC hackernews. Although it is just a vanilla javascript app, created advanced reducer and store to implement ADD and RMOVE favorites without database or JSON file.
   
+  ### TripleWin
+  - 🌎 [TripleWin](https://triplewin.vercel.app)
+  - 💻 [repo & code](https://github.com/yuxianxu/vite-react-typescript-tailwind-tic-tac-toe)
+  - An online tic-tac-toe game for two players. Built in React, with **Typescript**, **Tailwind CSS** and the blazingly fast **Vite** build tool.
+  
   ### CardBlog
   - 🌎 [Live view](https://cardblog.herokuapp.com)
   - 💻 [repo & code](https://github.com/yuxianxu/vue_rest_api_MEVN_CardBlog)
-  - A full-stack MEVN project using MongoDB, Express.js and Node.js in Back-End to create **RestFul API**. Then consumed this API in the Front-End using **VueJs and Vuetify**
+  - A full-stack MEVN project using **MongoDB, Express.js** and **Node.js** in Back-End to create **RestFul API**. Then consumed this API in the Front-End using **VueJs and Vuetify**
   
   ### cloudRoom
   - 🌎 [Live view](https://cloudroom.netlify.app)
