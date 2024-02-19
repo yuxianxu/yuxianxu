@@ -5,7 +5,7 @@
 
 <h4 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=system-ui&color=%230a66c2&size=25&width=300&height=89&lines=Front+End+Developer.+;Focus+on+project+deliverable.;Open+minded%2C+work+hard.;Getting+work+done!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=system-ui&color=%230a66c2&size=25&width=300&height=89&lines=Full+Stack+Engineer.+;Focus+on+project+deliverable.;Open+minded%2C+work+hard.;Getting+work+done!)](https://git.io/typing-svg)
   
 </h4>
 
